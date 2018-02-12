@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView1">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="Podaj wagę (kg)[30-250]"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1" />
+        <EditText
+            android:inputType="number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/podanaWaga" />
+        <TextView
+            android:text="Podaj wzrost (cm)[100-250]"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2" />
+        <EditText
+            android:inputType="number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/podanyWzrost" />
+        <TextView
+            android:text="Podaj wiek (lata)[18-99]"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5" />
+        <EditText
+            android:inputType="number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/podanyWiek" />
+        <TextView
+            android:text="Wybierz Płeć"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3" />
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioGroup1">
+            <RadioButton
+                android:text="Kobieta"
+                android:id="@+id/radioKobieta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <RadioButton
+                android:text="Mężczyzna"
+                android:id="@+id/radiomezczyna"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </RadioGroup>
+        <TextView
+            android:text="Podaj stopień aktywności fizycznej"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4" />
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioGroup2">
+            <RadioButton
+                android:text="brak aktywności, praca siedząca"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioaktyw1" />
+            <RadioButton
+                android:text="niska aktywność (praca siedząca i 1-2 treningi w tygodniu)"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioaktyw2" />
+            <RadioButton
+                android:text="średnia aktywność (praca siedząca i treningi 3-4 razy w tygodniu)"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioaktyw3" />
+            <RadioButton
+                android:text="wysoka aktywność (praca fizyczna i 3-4 treningi w tygodniu)"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioaktyw4" />
+            <RadioButton
+                android:text="bardzo wysoka aktywność (zawodowi sportowcy, osoby codziennie trenujące)"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioaktyw5" />
+        </RadioGroup>
+        <Button
+            android:text="Oblicz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonsprawdz" />
+    </LinearLayout>
+</ScrollView>

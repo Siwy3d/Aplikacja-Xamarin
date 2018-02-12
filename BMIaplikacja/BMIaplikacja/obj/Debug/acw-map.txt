@@ -1,0 +1,8 @@
+BMIaplikacja.MainActivity, BMIaplikacja;md586030855aff28abb41c313cb30add580.MainActivity
+BMIaplikacja.MainActivity, BMIaplikacja, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md586030855aff28abb41c313cb30add580.MainActivity
+BMIaplikacja.MainActivity;md586030855aff28abb41c313cb30add580.MainActivity
+bmiaplikacja.MainActivity;md586030855aff28abb41c313cb30add580.MainActivity
+BMIaplikacja.WynikActivity, BMIaplikacja;md586030855aff28abb41c313cb30add580.WynikActivity
+BMIaplikacja.WynikActivity, BMIaplikacja, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md586030855aff28abb41c313cb30add580.WynikActivity
+BMIaplikacja.WynikActivity;md586030855aff28abb41c313cb30add580.WynikActivity
+bmiaplikacja.WynikActivity;md586030855aff28abb41c313cb30add580.WynikActivity

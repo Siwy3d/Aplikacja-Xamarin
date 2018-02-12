@@ -1,0 +1,38 @@
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\bin\Debug\BMIaplikacja.dll
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\bin\Debug\BMIaplikacja.pdb
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\bin\Debug\BMIaplikacja.BMIaplikacja.apk
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\bin\Debug\BMIaplikacja.BMIaplikacja-Signed.apk
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\BMIaplikacja.csproj.CoreCompileInputs.cache
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\BMIaplikacja.dll
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\BMIaplikacja.pdb
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\android\bin\BMIaplikacja.BMIaplikacja.apk
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\res\layout\main.xml
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\res\values\strings.xml
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\R.cs.flag
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\uploadflags.txt
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\bin\Debug\BMIaplikacja.dll.mdb
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\android\assets\BMIaplikacja.dll.mdb
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\BMIaplikacja.csprojResolveAssemblyReference.cache
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\obj\Debug\res\layout\wynik.xml
+D:\Studia\Aplikacje sieciowe\BMIaplikacja\BMIaplikacja\bin\Debug\BMIaplikacja.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\BMIaplikacja.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
